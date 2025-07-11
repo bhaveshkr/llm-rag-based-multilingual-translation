@@ -1,0 +1,9 @@
+transformers==4.53.2
+datasets==4.0.0
+faiss-cpu==1.11.0
+sentence-transformers==5.0.0
+gradio==5.36.2
+nltk==3.9.1
+fastapi==0.116.1
+pydantic==2.11.7
+llama-cpp-python==0.3.12
